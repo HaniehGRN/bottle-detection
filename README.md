@@ -1,5 +1,6 @@
 
-readme_content = """# 🧴 Bottle Detection using YOLOv8
+readme_content = """<img src="vecteezy_water-bottle-icon-logo-vector-illustration-plastic-bottle_9317087.jpg" alt="Plastic Water Bottle" width="40"/>
+# Bottle Detection using YOLOv8
 
 This project focuses on detecting bottles in images using the YOLOv8 object detection model. The model is trained on a custom dataset and iteratively improved through multiple test phases to enhance accuracy and reduce false positives.
 
