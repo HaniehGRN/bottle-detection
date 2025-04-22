@@ -1,6 +1,6 @@
 <h1><img src="./README/water-bottle.png" alt="Bottle Icon" width="30" style="vertical-align: middle;"/> Bottle Detection using YOLOv8</h1>
 
-<img src="water-bottle.png" alt="Bottle Icon" width="30" style="vertical-align: middle;"/>
+<img src="./README/water-bottle.png" alt="Bottle Icon" width="30" style="vertical-align: middle;"/>
 This project focuses on detecting bottles in images using the YOLOv8 object detection model. The model is trained on a custom dataset and iteratively improved through multiple test phases to enhance accuracy and reduce false positives.
 
 ---
