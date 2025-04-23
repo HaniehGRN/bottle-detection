@@ -87,7 +87,6 @@ The following correlogram provides insight into the distribution and correlation
 
 <img src="./README/labels_correlogram.jpg" alt="Labels Correlogram" width="150" style="vertical-align: middle;"/>
 
-<img src="./README/labels.jpg" alt="Labels Distribution" width="150" style="vertical-align: middle;"/>
 ---
 
 ## 📄 License
