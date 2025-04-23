@@ -85,9 +85,10 @@ Introduce a condition to ensure the entire bottle is visible in the frame before
 
 The following correlogram provides insight into the distribution and correlation of bounding box attributes (x, y, width, height) used in training:
 
-<img src="./README/labels_correlogram.jpg" alt="Labels Correlogram" width="450" style="vertical-align: middle;"/>
-
-<img src="./README/labels.jpg" alt="Labels" width="450" style="vertical-align: middle;"/>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="./README/labels_correlogram.jpg" alt="Labels Correlogram" width="450" style="vertical-align: middle;" />
+  <img src="./README/labels.jpg" alt="Labels" width="450" style="vertical-align: middle;" />
+</div>
 
 ---
 
